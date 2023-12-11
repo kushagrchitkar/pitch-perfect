@@ -10,6 +10,7 @@ All of our visualizations are dynamic and hence made as JavaScript files, stored
 The stylesheet is in the css folder, and the index.html is the main html file.
 
 This is the link to our final website: https://kushagrchitkar.github.io/pitch-perfect.github.io/ 
+
 This is the link to our presentation video: https://drive.google.com/file/d/1neHhINqZc61PQ1OkQ2MaokNpg6ubxGRA/view?usp=sharing
 
 We hope you enjoy this journey that our website takes you on, and appreciate this beautiful game a little more :)
