@@ -3,7 +3,7 @@ class lineGraph {
         this.parentElement = parentElement;
         this.ballData = ballData;
         this.matchData = matchData;
-        this.speed = 300
+        this.speed = 1000
         this.initVis();
     }
 
