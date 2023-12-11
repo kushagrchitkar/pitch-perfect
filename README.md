@@ -13,6 +13,8 @@ This is the link to our final website: https://kushagrchitkar.github.io/pitch-pe
 
 This is the link to our presentation video: https://drive.google.com/file/d/1neHhINqZc61PQ1OkQ2MaokNpg6ubxGRA/view?usp=sharing
 
+Alternative Website: https://cricketeers.netlify.app/ 
+
 We hope you enjoy this journey that our website takes you on, and appreciate this beautiful game a little more :)
 
 ## Additional details:
