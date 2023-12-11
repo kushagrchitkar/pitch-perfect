@@ -19,3 +19,7 @@ How to run the code:
 2. Unzip the file open the `code` folder on webstorm
 3. Run the index.html file
 4. Enjoy :) 
+
+## Non obvious features of our code:
+- The title page has a lag before the title appears (this is intentional to allow you to enjoy the video)
+- in addition to mouse scrolling, you are also able to use the arrow keys on your keyboard
