@@ -1,0 +1,954 @@
+[
+  {
+    "name": "YBK Jaiswal",
+    "sumBatsmanRuns": 547,
+    "numPlayerOuts": 23,
+    "average": 23.782608695652176,
+    "strikeRate": 133
+  },
+  {
+    "name": "JC Buttler",
+    "sumBatsmanRuns": 2832,
+    "numPlayerOuts": 69,
+    "average": 41.04347826086956,
+    "strikeRate": 145
+  },
+  {
+    "name": "SV Samson",
+    "sumBatsmanRuns": 3526,
+    "numPlayerOuts": 117,
+    "average": 30.136752136752136,
+    "strikeRate": 132
+  },
+  {
+    "name": "D Padikkal",
+    "sumBatsmanRuns": 1260,
+    "numPlayerOuts": 44,
+    "average": 28.636363636363637,
+    "strikeRate": 119
+  },
+  {
+    "name": "SO Hetmyer",
+    "sumBatsmanRuns": 831,
+    "numPlayerOuts": 26,
+    "average": 31.96153846153846,
+    "strikeRate": 144
+  },
+  {
+    "name": "R Ashwin",
+    "sumBatsmanRuns": 647,
+    "numPlayerOuts": 46,
+    "average": 14.065217391304348,
+    "strikeRate": 114
+  },
+  {
+    "name": "R Parag",
+    "sumBatsmanRuns": 522,
+    "numPlayerOuts": 28,
+    "average": 18.642857142857142,
+    "strikeRate": 120
+  },
+  {
+    "name": "WP Saha",
+    "sumBatsmanRuns": 2427,
+    "numPlayerOuts": 93,
+    "average": 26.096774193548388,
+    "strikeRate": 124
+  },
+  {
+    "name": "Shubman Gill",
+    "sumBatsmanRuns": 1900,
+    "numPlayerOuts": 57,
+    "average": 33.333333333333336,
+    "strikeRate": 122
+  },
+  {
+    "name": "HH Pandya",
+    "sumBatsmanRuns": 1972,
+    "numPlayerOuts": 63,
+    "average": 31.3015873015873,
+    "strikeRate": 140
+  },
+  {
+    "name": "DA Miller",
+    "sumBatsmanRuns": 2455,
+    "numPlayerOuts": 65,
+    "average": 37.76923076923077,
+    "strikeRate": 134
+  },
+  {
+    "name": "V Kohli",
+    "sumBatsmanRuns": 6634,
+    "numPlayerOuts": 181,
+    "average": 36.651933701657455,
+    "strikeRate": 126
+  },
+  {
+    "name": "F du Plessis",
+    "sumBatsmanRuns": 3403,
+    "numPlayerOuts": 92,
+    "average": 36.98913043478261,
+    "strikeRate": 127
+  },
+  {
+    "name": "RM Patidar",
+    "sumBatsmanRuns": 404,
+    "numPlayerOuts": 10,
+    "average": 40.4,
+    "strikeRate": 136
+  },
+  {
+    "name": "GJ Maxwell",
+    "sumBatsmanRuns": 2320,
+    "numPlayerOuts": 87,
+    "average": 26.666666666666668,
+    "strikeRate": 148
+  },
+  {
+    "name": "KD Karthik",
+    "sumBatsmanRuns": 4377,
+    "numPlayerOuts": 156,
+    "average": 28.057692307692307,
+    "strikeRate": 129
+  },
+  {
+    "name": "Q de Kock",
+    "sumBatsmanRuns": 2767,
+    "numPlayerOuts": 84,
+    "average": 32.94047619047619,
+    "strikeRate": 131
+  },
+  {
+    "name": "KL Rahul",
+    "sumBatsmanRuns": 3895,
+    "numPlayerOuts": 81,
+    "average": 48.08641975308642,
+    "strikeRate": 133
+  },
+  {
+    "name": "M Vohra",
+    "sumBatsmanRuns": 1073,
+    "numPlayerOuts": 46,
+    "average": 23.32608695652174,
+    "strikeRate": 126
+  },
+  {
+    "name": "DJ Hooda",
+    "sumBatsmanRuns": 1237,
+    "numPlayerOuts": 56,
+    "average": 22.089285714285715,
+    "strikeRate": 128
+  },
+  {
+    "name": "MP Stoinis",
+    "sumBatsmanRuns": 1070,
+    "numPlayerOuts": 40,
+    "average": 26.75,
+    "strikeRate": 132
+  },
+  {
+    "name": "E Lewis",
+    "sumBatsmanRuns": 654,
+    "numPlayerOuts": 24,
+    "average": 27.25,
+    "strikeRate": 131
+  },
+  {
+    "name": "KH Pandya",
+    "sumBatsmanRuns": 1326,
+    "numPlayerOuts": 57,
+    "average": 23.263157894736842,
+    "strikeRate": 132
+  },
+  {
+    "name": "Abhishek Sharma",
+    "sumBatsmanRuns": 667,
+    "numPlayerOuts": 28,
+    "average": 23.821428571428573,
+    "strikeRate": 131
+  },
+  {
+    "name": "RA Tripathi",
+    "sumBatsmanRuns": 1798,
+    "numPlayerOuts": 63,
+    "average": 28.53968253968254,
+    "strikeRate": 137
+  },
+  {
+    "name": "AK Markram",
+    "sumBatsmanRuns": 527,
+    "numPlayerOuts": 13,
+    "average": 40.53846153846154,
+    "strikeRate": 132
+  },
+  {
+    "name": "N Pooran",
+    "sumBatsmanRuns": 912,
+    "numPlayerOuts": 36,
+    "average": 25.333333333333332,
+    "strikeRate": 145
+  },
+  {
+    "name": "JM Bairstow",
+    "sumBatsmanRuns": 1291,
+    "numPlayerOuts": 36,
+    "average": 35.861111111111114,
+    "strikeRate": 138
+  },
+  {
+    "name": "S Dhawan",
+    "sumBatsmanRuns": 6244,
+    "numPlayerOuts": 173,
+    "average": 36.092485549132945,
+    "strikeRate": 123
+  },
+  {
+    "name": "MA Agarwal",
+    "sumBatsmanRuns": 2335,
+    "numPlayerOuts": 100,
+    "average": 23.35,
+    "strikeRate": 130
+  },
+  {
+    "name": "LS Livingstone",
+    "sumBatsmanRuns": 549,
+    "numPlayerOuts": 20,
+    "average": 27.45,
+    "strikeRate": 156
+  },
+  {
+    "name": "PP Shaw",
+    "sumBatsmanRuns": 1588,
+    "numPlayerOuts": 60,
+    "average": 26.466666666666665,
+    "strikeRate": 144
+  },
+  {
+    "name": "DA Warner",
+    "sumBatsmanRuns": 5883,
+    "numPlayerOuts": 137,
+    "average": 42.941605839416056,
+    "strikeRate": 136
+  },
+  {
+    "name": "MR Marsh",
+    "sumBatsmanRuns": 476,
+    "numPlayerOuts": 19,
+    "average": 25.05263157894737,
+    "strikeRate": 121
+  },
+  {
+    "name": "RR Pant",
+    "sumBatsmanRuns": 2851,
+    "numPlayerOuts": 80,
+    "average": 35.6375,
+    "strikeRate": 143
+  },
+  {
+    "name": "SN Khan",
+    "sumBatsmanRuns": 532,
+    "numPlayerOuts": 22,
+    "average": 24.181818181818183,
+    "strikeRate": 135
+  },
+  {
+    "name": "AR Patel",
+    "sumBatsmanRuns": 1135,
+    "numPlayerOuts": 56,
+    "average": 20.267857142857142,
+    "strikeRate": 124
+  },
+  {
+    "name": "Ishan Kishan",
+    "sumBatsmanRuns": 1870,
+    "numPlayerOuts": 62,
+    "average": 30.161290322580644,
+    "strikeRate": 130
+  },
+  {
+    "name": "RG Sharma",
+    "sumBatsmanRuns": 5881,
+    "numPlayerOuts": 192,
+    "average": 30.630208333333332,
+    "strikeRate": 127
+  },
+  {
+    "name": "RD Gaikwad",
+    "sumBatsmanRuns": 1207,
+    "numPlayerOuts": 31,
+    "average": 38.935483870967744,
+    "strikeRate": 128
+  },
+  {
+    "name": "MM Ali",
+    "sumBatsmanRuns": 910,
+    "numPlayerOuts": 37,
+    "average": 24.594594594594593,
+    "strikeRate": 140
+  },
+  {
+    "name": "AT Rayudu",
+    "sumBatsmanRuns": 4190,
+    "numPlayerOuts": 138,
+    "average": 30.36231884057971,
+    "strikeRate": 124
+  },
+  {
+    "name": "MS Dhoni",
+    "sumBatsmanRuns": 4978,
+    "numPlayerOuts": 124,
+    "average": 40.145161290322584,
+    "strikeRate": 131
+  },
+  {
+    "name": "R Tewatia",
+    "sumBatsmanRuns": 738,
+    "numPlayerOuts": 29,
+    "average": 25.448275862068964,
+    "strikeRate": 126
+  },
+  {
+    "name": "VR Iyer",
+    "sumBatsmanRuns": 552,
+    "numPlayerOuts": 20,
+    "average": 27.6,
+    "strikeRate": 116
+  },
+  {
+    "name": "N Rana",
+    "sumBatsmanRuns": 2181,
+    "numPlayerOuts": 77,
+    "average": 28.324675324675326,
+    "strikeRate": 130
+  },
+  {
+    "name": "SS Iyer",
+    "sumBatsmanRuns": 2780,
+    "numPlayerOuts": 88,
+    "average": 31.59090909090909,
+    "strikeRate": 121
+  },
+  {
+    "name": "SW Billings",
+    "sumBatsmanRuns": 503,
+    "numPlayerOuts": 26,
+    "average": 19.346153846153847,
+    "strikeRate": 126
+  },
+  {
+    "name": "AD Russell",
+    "sumBatsmanRuns": 2039,
+    "numPlayerOuts": 65,
+    "average": 31.369230769230768,
+    "strikeRate": 168
+  },
+  {
+    "name": "SP Narine",
+    "sumBatsmanRuns": 1025,
+    "numPlayerOuts": 64,
+    "average": 16.015625,
+    "strikeRate": 154
+  },
+  {
+    "name": "KS Williamson",
+    "sumBatsmanRuns": 2105,
+    "numPlayerOuts": 56,
+    "average": 37.589285714285715,
+    "strikeRate": 123
+  },
+  {
+    "name": "S Dube",
+    "sumBatsmanRuns": 688,
+    "numPlayerOuts": 27,
+    "average": 25.48148148148148,
+    "strikeRate": 127
+  },
+  {
+    "name": "AM Rahane",
+    "sumBatsmanRuns": 4074,
+    "numPlayerOuts": 127,
+    "average": 32.07874015748032,
+    "strikeRate": 118
+  },
+  {
+    "name": "RV Uthappa",
+    "sumBatsmanRuns": 4954,
+    "numPlayerOuts": 175,
+    "average": 28.30857142857143,
+    "strikeRate": 126
+  },
+  {
+    "name": "DJ Bravo",
+    "sumBatsmanRuns": 1560,
+    "numPlayerOuts": 68,
+    "average": 22.941176470588236,
+    "strikeRate": 125
+  },
+  {
+    "name": "KA Pollard",
+    "sumBatsmanRuns": 3437,
+    "numPlayerOuts": 120,
+    "average": 28.641666666666666,
+    "strikeRate": 140
+  },
+  {
+    "name": "AJ Finch",
+    "sumBatsmanRuns": 2092,
+    "numPlayerOuts": 82,
+    "average": 25.51219512195122,
+    "strikeRate": 123
+  },
+  {
+    "name": "SA Yadav",
+    "sumBatsmanRuns": 2644,
+    "numPlayerOuts": 85,
+    "average": 31.105882352941176,
+    "strikeRate": 134
+  },
+  {
+    "name": "Mandeep Singh",
+    "sumBatsmanRuns": 1692,
+    "numPlayerOuts": 77,
+    "average": 21.974025974025974,
+    "strikeRate": 121
+  },
+  {
+    "name": "RA Jadeja",
+    "sumBatsmanRuns": 2502,
+    "numPlayerOuts": 92,
+    "average": 27.195652173913043,
+    "strikeRate": 122
+  },
+  {
+    "name": "KK Nair",
+    "sumBatsmanRuns": 1496,
+    "numPlayerOuts": 61,
+    "average": 24.524590163934427,
+    "strikeRate": 126
+  },
+  {
+    "name": "MK Pandey",
+    "sumBatsmanRuns": 3657,
+    "numPlayerOuts": 121,
+    "average": 30.223140495867767,
+    "strikeRate": 118
+  },
+  {
+    "name": "V Shankar",
+    "sumBatsmanRuns": 731,
+    "numPlayerOuts": 30,
+    "average": 24.366666666666667,
+    "strikeRate": 119
+  },
+  {
+    "name": "EJG Morgan",
+    "sumBatsmanRuns": 1406,
+    "numPlayerOuts": 59,
+    "average": 23.83050847457627,
+    "strikeRate": 119
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "sumBatsmanRuns": 795,
+    "numPlayerOuts": 39,
+    "average": 20.384615384615383,
+    "strikeRate": 120
+  },
+  {
+    "name": "AB de Villiers",
+    "sumBatsmanRuns": 5181,
+    "numPlayerOuts": 122,
+    "average": 42.467213114754095,
+    "strikeRate": 149
+  },
+  {
+    "name": "DT Christian",
+    "sumBatsmanRuns": 460,
+    "numPlayerOuts": 27,
+    "average": 17.037037037037038,
+    "strikeRate": 113
+  },
+  {
+    "name": "SK Raina",
+    "sumBatsmanRuns": 5536,
+    "numPlayerOuts": 162,
+    "average": 34.17283950617284,
+    "strikeRate": 133
+  },
+  {
+    "name": "SS Tiwary",
+    "sumBatsmanRuns": 1494,
+    "numPlayerOuts": 49,
+    "average": 30.489795918367346,
+    "strikeRate": 116
+  },
+  {
+    "name": "SPD Smith",
+    "sumBatsmanRuns": 2495,
+    "numPlayerOuts": 70,
+    "average": 35.642857142857146,
+    "strikeRate": 125
+  },
+  {
+    "name": "CH Morris",
+    "sumBatsmanRuns": 618,
+    "numPlayerOuts": 28,
+    "average": 22.071428571428573,
+    "strikeRate": 150
+  },
+  {
+    "name": "CH Gayle",
+    "sumBatsmanRuns": 4997,
+    "numPlayerOuts": 125,
+    "average": 39.976,
+    "strikeRate": 142
+  },
+  {
+    "name": "KM Jadhav",
+    "sumBatsmanRuns": 1196,
+    "numPlayerOuts": 51,
+    "average": 23.45098039215686,
+    "strikeRate": 119
+  },
+  {
+    "name": "MC Henriques",
+    "sumBatsmanRuns": 1000,
+    "numPlayerOuts": 36,
+    "average": 27.77777777777778,
+    "strikeRate": 125
+  },
+  {
+    "name": "PP Chawla",
+    "sumBatsmanRuns": 584,
+    "numPlayerOuts": 47,
+    "average": 12.425531914893616,
+    "strikeRate": 108
+  },
+  {
+    "name": "Harbhajan Singh",
+    "sumBatsmanRuns": 833,
+    "numPlayerOuts": 51,
+    "average": 16.333333333333332,
+    "strikeRate": 131
+  },
+  {
+    "name": "BA Stokes",
+    "sumBatsmanRuns": 920,
+    "numPlayerOuts": 36,
+    "average": 25.555555555555557,
+    "strikeRate": 131
+  },
+  {
+    "name": "CA Lynn",
+    "sumBatsmanRuns": 1329,
+    "numPlayerOuts": 38,
+    "average": 34.973684210526315,
+    "strikeRate": 136
+  },
+  {
+    "name": "Gurkeerat Singh",
+    "sumBatsmanRuns": 511,
+    "numPlayerOuts": 24,
+    "average": 21.291666666666668,
+    "strikeRate": 117
+  },
+  {
+    "name": "M Vijay",
+    "sumBatsmanRuns": 2619,
+    "numPlayerOuts": 93,
+    "average": 28.161290322580644,
+    "strikeRate": 119
+  },
+  {
+    "name": "SR Watson",
+    "sumBatsmanRuns": 3880,
+    "numPlayerOuts": 124,
+    "average": 31.29032258064516,
+    "strikeRate": 134
+  },
+  {
+    "name": "YK Pathan",
+    "sumBatsmanRuns": 3222,
+    "numPlayerOuts": 105,
+    "average": 30.685714285714287,
+    "strikeRate": 138
+  },
+  {
+    "name": "PA Patel",
+    "sumBatsmanRuns": 2848,
+    "numPlayerOuts": 121,
+    "average": 23.537190082644628,
+    "strikeRate": 117
+  },
+  {
+    "name": "STR Binny",
+    "sumBatsmanRuns": 880,
+    "numPlayerOuts": 43,
+    "average": 20.46511627906977,
+    "strikeRate": 126
+  },
+  {
+    "name": "Yuvraj Singh",
+    "sumBatsmanRuns": 2754,
+    "numPlayerOuts": 107,
+    "average": 25.738317757009344,
+    "strikeRate": 125
+  },
+  {
+    "name": "MK Tiwary",
+    "sumBatsmanRuns": 1695,
+    "numPlayerOuts": 57,
+    "average": 29.736842105263158,
+    "strikeRate": 114
+  },
+  {
+    "name": "JP Duminy",
+    "sumBatsmanRuns": 2029,
+    "numPlayerOuts": 48,
+    "average": 42.270833333333336,
+    "strikeRate": 121
+  },
+  {
+    "name": "NV Ojha",
+    "sumBatsmanRuns": 1554,
+    "numPlayerOuts": 72,
+    "average": 21.583333333333332,
+    "strikeRate": 114
+  },
+  {
+    "name": "BB McCullum",
+    "sumBatsmanRuns": 2882,
+    "numPlayerOuts": 102,
+    "average": 28.254901960784313,
+    "strikeRate": 127
+  },
+  {
+    "name": "CJ Anderson",
+    "sumBatsmanRuns": 538,
+    "numPlayerOuts": 22,
+    "average": 24.454545454545453,
+    "strikeRate": 123
+  },
+  {
+    "name": "G Gambhir",
+    "sumBatsmanRuns": 4217,
+    "numPlayerOuts": 128,
+    "average": 32.9453125,
+    "strikeRate": 120
+  },
+  {
+    "name": "LMP Simmons",
+    "sumBatsmanRuns": 1079,
+    "numPlayerOuts": 26,
+    "average": 41.5,
+    "strikeRate": 123
+  },
+  {
+    "name": "SE Marsh",
+    "sumBatsmanRuns": 2489,
+    "numPlayerOuts": 62,
+    "average": 40.145161290322584,
+    "strikeRate": 130
+  },
+  {
+    "name": "DR Smith",
+    "sumBatsmanRuns": 2385,
+    "numPlayerOuts": 80,
+    "average": 29.8125,
+    "strikeRate": 132
+  },
+  {
+    "name": "JP Faulkner",
+    "sumBatsmanRuns": 527,
+    "numPlayerOuts": 26,
+    "average": 20.26923076923077,
+    "strikeRate": 130
+  },
+  {
+    "name": "HM Amla",
+    "sumBatsmanRuns": 577,
+    "numPlayerOuts": 13,
+    "average": 44.38461538461539,
+    "strikeRate": 138
+  },
+  {
+    "name": "IK Pathan",
+    "sumBatsmanRuns": 1150,
+    "numPlayerOuts": 49,
+    "average": 23.46938775510204,
+    "strikeRate": 117
+  },
+  {
+    "name": "AD Mathews",
+    "sumBatsmanRuns": 724,
+    "numPlayerOuts": 28,
+    "average": 25.857142857142858,
+    "strikeRate": 121
+  },
+  {
+    "name": "GJ Bailey",
+    "sumBatsmanRuns": 663,
+    "numPlayerOuts": 26,
+    "average": 25.5,
+    "strikeRate": 120
+  },
+  {
+    "name": "NLTC Perera",
+    "sumBatsmanRuns": 424,
+    "numPlayerOuts": 22,
+    "average": 19.272727272727273,
+    "strikeRate": 130
+  },
+  {
+    "name": "JA Morkel",
+    "sumBatsmanRuns": 975,
+    "numPlayerOuts": 38,
+    "average": 25.657894736842106,
+    "strikeRate": 137
+  },
+  {
+    "name": "KP Pietersen",
+    "sumBatsmanRuns": 1001,
+    "numPlayerOuts": 27,
+    "average": 37.074074074074076,
+    "strikeRate": 132
+  },
+  {
+    "name": "MEK Hussey",
+    "sumBatsmanRuns": 1977,
+    "numPlayerOuts": 49,
+    "average": 40.3469387755102,
+    "strikeRate": 120
+  },
+  {
+    "name": "RS Bopara",
+    "sumBatsmanRuns": 531,
+    "numPlayerOuts": 17,
+    "average": 31.235294117647058,
+    "strikeRate": 113
+  },
+  {
+    "name": "J Botha",
+    "sumBatsmanRuns": 409,
+    "numPlayerOuts": 20,
+    "average": 20.45,
+    "strikeRate": 112
+  },
+  {
+    "name": "V Sehwag",
+    "sumBatsmanRuns": 2728,
+    "numPlayerOuts": 95,
+    "average": 28.71578947368421,
+    "strikeRate": 149
+  },
+  {
+    "name": "MS Bisla",
+    "sumBatsmanRuns": 798,
+    "numPlayerOuts": 36,
+    "average": 22.166666666666668,
+    "strikeRate": 108
+  },
+  {
+    "name": "DJ Hussey",
+    "sumBatsmanRuns": 1322,
+    "numPlayerOuts": 46,
+    "average": 28.73913043478261,
+    "strikeRate": 120
+  },
+  {
+    "name": "BJ Hodge",
+    "sumBatsmanRuns": 1400,
+    "numPlayerOuts": 41,
+    "average": 34.146341463414636,
+    "strikeRate": 121
+  },
+  {
+    "name": "Y Venugopal Rao",
+    "sumBatsmanRuns": 985,
+    "numPlayerOuts": 42,
+    "average": 23.452380952380953,
+    "strikeRate": 114
+  },
+  {
+    "name": "LRPL Taylor",
+    "sumBatsmanRuns": 1017,
+    "numPlayerOuts": 38,
+    "average": 26.763157894736842,
+    "strikeRate": 120
+  },
+  {
+    "name": "M Manhas",
+    "sumBatsmanRuns": 514,
+    "numPlayerOuts": 23,
+    "average": 22.347826086956523,
+    "strikeRate": 106
+  },
+  {
+    "name": "LR Shukla",
+    "sumBatsmanRuns": 405,
+    "numPlayerOuts": 27,
+    "average": 15,
+    "strikeRate": 113
+  },
+  {
+    "name": "JH Kallis",
+    "sumBatsmanRuns": 2427,
+    "numPlayerOuts": 83,
+    "average": 29.240963855421686,
+    "strikeRate": 106
+  },
+  {
+    "name": "AM Nayar",
+    "sumBatsmanRuns": 672,
+    "numPlayerOuts": 36,
+    "average": 18.666666666666668,
+    "strikeRate": 114
+  },
+  {
+    "name": "S Badrinath",
+    "sumBatsmanRuns": 1441,
+    "numPlayerOuts": 46,
+    "average": 31.32608695652174,
+    "strikeRate": 116
+  },
+  {
+    "name": "R Dravid",
+    "sumBatsmanRuns": 2174,
+    "numPlayerOuts": 75,
+    "average": 28.986666666666668,
+    "strikeRate": 113
+  },
+  {
+    "name": "CL White",
+    "sumBatsmanRuns": 971,
+    "numPlayerOuts": 34,
+    "average": 28.558823529411764,
+    "strikeRate": 125
+  },
+  {
+    "name": "DPMD Jayawardene",
+    "sumBatsmanRuns": 1808,
+    "numPlayerOuts": 59,
+    "average": 30.64406779661017,
+    "strikeRate": 119
+  },
+  {
+    "name": "AC Gilchrist",
+    "sumBatsmanRuns": 2069,
+    "numPlayerOuts": 75,
+    "average": 27.586666666666666,
+    "strikeRate": 133
+  },
+  {
+    "name": "SR Tendulkar",
+    "sumBatsmanRuns": 2334,
+    "numPlayerOuts": 67,
+    "average": 34.83582089552239,
+    "strikeRate": 114
+  },
+  {
+    "name": "KC Sangakkara",
+    "sumBatsmanRuns": 1687,
+    "numPlayerOuts": 65,
+    "average": 25.953846153846154,
+    "strikeRate": 118
+  },
+  {
+    "name": "OA Shah",
+    "sumBatsmanRuns": 506,
+    "numPlayerOuts": 12,
+    "average": 42.166666666666664,
+    "strikeRate": 125
+  },
+  {
+    "name": "TL Suman",
+    "sumBatsmanRuns": 676,
+    "numPlayerOuts": 30,
+    "average": 22.533333333333335,
+    "strikeRate": 115
+  },
+  {
+    "name": "TM Dilshan",
+    "sumBatsmanRuns": 1153,
+    "numPlayerOuts": 40,
+    "average": 28.825,
+    "strikeRate": 110
+  },
+  {
+    "name": "PC Valthaty",
+    "sumBatsmanRuns": 505,
+    "numPlayerOuts": 22,
+    "average": 22.954545454545453,
+    "strikeRate": 117
+  },
+  {
+    "name": "AL Menaria",
+    "sumBatsmanRuns": 401,
+    "numPlayerOuts": 21,
+    "average": 19.095238095238095,
+    "strikeRate": 109
+  },
+  {
+    "name": "JD Ryder",
+    "sumBatsmanRuns": 604,
+    "numPlayerOuts": 27,
+    "average": 22.37037037037037,
+    "strikeRate": 130
+  },
+  {
+    "name": "SC Ganguly",
+    "sumBatsmanRuns": 1349,
+    "numPlayerOuts": 52,
+    "average": 25.942307692307693,
+    "strikeRate": 102
+  },
+  {
+    "name": "HH Gibbs",
+    "sumBatsmanRuns": 886,
+    "numPlayerOuts": 31,
+    "average": 28.580645161290324,
+    "strikeRate": 106
+  },
+  {
+    "name": "JR Hopes",
+    "sumBatsmanRuns": 417,
+    "numPlayerOuts": 16,
+    "average": 26.0625,
+    "strikeRate": 133
+  },
+  {
+    "name": "A Symonds",
+    "sumBatsmanRuns": 974,
+    "numPlayerOuts": 24,
+    "average": 40.583333333333336,
+    "strikeRate": 125
+  },
+  {
+    "name": "GC Smith",
+    "sumBatsmanRuns": 739,
+    "numPlayerOuts": 26,
+    "average": 28.423076923076923,
+    "strikeRate": 107
+  },
+  {
+    "name": "SA Asnodkar",
+    "sumBatsmanRuns": 423,
+    "numPlayerOuts": 18,
+    "average": 23.5,
+    "strikeRate": 120
+  },
+  {
+    "name": "ML Hayden",
+    "sumBatsmanRuns": 1107,
+    "numPlayerOuts": 28,
+    "average": 39.535714285714285,
+    "strikeRate": 132
+  },
+  {
+    "name": "ST Jayasuriya",
+    "sumBatsmanRuns": 768,
+    "numPlayerOuts": 28,
+    "average": 27.428571428571427,
+    "strikeRate": 134
+  }
+]
