@@ -90,11 +90,12 @@ class BarVis {
             .attr("class", "axis axis-y");
 
         // x-axis label
-        let xAxisOffsetY = 15
+        let xAxisOffsetY = 5
         vis.svg.append("text")
             .attr("class", "x-axis-label")
             .attr("transform", `translate(${vis.width / 2}, ${vis.height + vis.margin.top + xAxisOffsetY})`)
             .style("text-anchor", "middle")
+            .style("font-family", "'Bebas Neue', sans-serif")
             .text("Batsman Names");
 
         // y-axis label
@@ -104,7 +105,7 @@ class BarVis {
             average: "Average",
             strikeRate: "Strike Rate"
         }
-        let yAxisOffsetY = 70
+        let yAxisOffsetY = 60
         vis.svg.append("text")
             .attr("class", "y-axis-label")
             .attr("transform", "rotate(-90)")
@@ -112,6 +113,8 @@ class BarVis {
             .attr("x", 0 - (vis.height / 2))
             .attr("dy", "1em")
             .style("text-anchor", "middle")
+            .style("font-family", "'Bebas Neue', sans-serif")
+
             .text(vis.yLabels[selectedCategory]);
 
         // create a tooltip
