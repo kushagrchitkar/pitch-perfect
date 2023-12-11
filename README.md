@@ -15,7 +15,7 @@ We hope you enjoy this journey that our website takes you on, and appreciate thi
 
 ## Additional details:
 How to run the code:
-1. Download the code folder
-2. Open the code folder on webstorm
+1. Download the entire repository as a zip file.
+2. Unzip the file open the `code` folder on webstorm
 3. Run the index.html file
 4. Enjoy :) 
