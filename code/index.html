@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CS171 Final Project</title>
+
+    <!-- CSS LIBRARIES -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.4.0/nouislider.css" integrity="sha512-DGB74Gyw93qON+V0QxSRs1er6sqoPyFoy23HBL5LN7MRJBcjeCU22zega+vOEGE0XQLoVrv4ExcaesSTwZQA2w==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/4.0.20/fullpage.css" integrity="sha512-wCVOuVtxsXqrQK7tj9j4BvyfITQmpp7UE7mVilD7aieGLYFEIAa5UKTP1RapOf6dxQ9JIKAneakcyykWG4r4Ow==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Domine:wght@400;700&display=swap">
+    <!-- YOUR CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div id = "fullPage">
+
+    <div class="section" id="section0">
+        <video class="myVideo" loop muted data-autoplay playsinline>
+            <source src="img/dhoni.mp4" type="video/mp4">
+        </video>
+        <div class="layer center-box1">
+            <h1 id="heading"><strong>Pitch Perfect</strong></h1>
+            <hr>
+            <h2>A Data-Driven Dive into Cricket Analytics</h2>
+
+        </div>
+    </div>
+
+    <div class = "section">
+        <h1>
+            <strong>Cricket: How to Play?</strong>
+        </h1>
+    </div>
+
+
+    <div class = "section" id="section1">
+    <video class="myVideo" loop muted data-autoplay playsinline>
+        <source src="img/bradman.mp4" type="video/mp4">
+    </video>
+        <div class="layer">
+            <div class = "row">
+                <h1 style="color: white;">The Gentleman's game</h1>
+            </div>
+        </div>
+    <div class ="row">
+        <div class = "col-md-4">
+        </div>
+        <div class="col-md-8">
+            <div class="layer1 text-box">
+                <ul id="howtocricket">
+                    <li>Cricket is a bat-and-ball game played between two teams of eleven players on a field at the center of which is a 22-yard (20-meter) pitch. </li>
+                    <li>There is a wicket at each end, th comprising two bails balanced on three stumps.</li>
+                    <li>The batting side scores runs by striking the ball bowled at the wicket with the bat, while the bowling and fielding side tries to prevent this and dismiss each player (so they are "out").</li>
+                    <li>Both teams take turns batting. Whichever team scores the most runs, wins the game.</li>
+                    <li>In this project we will focus on the analysis of the Indian Premier League (IPL), an annual cricket league held in India.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+    <div class = "section" id="section2">
+        <video class="myVideo" loop muted data-autoplay playsinline>
+            <source src="img/ipl.mp4" type="video/mp4">
+        </video>
+        <div class="layer center-box3">
+            <div class = "row">
+                <h1>The Indian Premier League</h1>
+            </div>
+            <div class = "row">
+                <div class = "col-md-4">
+                </div>
+                <div class="col-md-8">
+                    <div class="text-box">
+                        <ul id="ipl">
+                            <li>
+                                The Indian Premier League (IPL) is a professional cricket league in India contested during March, April, and May of every year by 8-10 teams representing eight different cities or states in India.
+                            </li>
+                            <li>
+                                The league was founded by the Board of Control for Cricket in India (BCCI) in 2008, and has come a long way since.
+                            </li>
+                            <li>
+                                As per figures collected by the Times of India, the IPL generates a revenue of $13.4 Million per game, second only to the NFL ($17 Million per game).
+                            </li>
+                            <li>
+                                Let's get acquainted with the teams then, shall we?
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class = "section" id="section3">
+        <h1>
+            <strong>Who have been the most successful teams in the IPL?</strong>
+        </h1>
+    </div>
+
+
+    <div class = "section" id="section4">
+
+        <h3 id="treemap">Which teams have the highest number of wins</h3>
+        <div class ="row">
+            <div class = "col-md-6">
+              <div id="treevis">
+              </div>
+            </div>
+            <div class = "col-md-6">
+                <div class="text-box">
+                    <p>
+                        After clicking on a team name in the treemap, we can then visualize the number of wins that team has against other teams.
+                        This is displayed below in the horizontal bar graph:
+                    </p>
+                </div>
+                <div id="barvis"></div>
+            </div>
+        </div>
+    </div>
+
+        <div class="section" id = "section5">
+            <video class="myVideo" loop muted data-autoplay playsinline>
+                <source src="img/csk vs mi.mp4" type="video/mp4">
+            </video>
+            <div class="layer">
+                <div class = "row">
+                    <h1 class="cskmi"><span class="csk">Chennai Super Kings</span> vs <span class="mi">Mumbai Indians</span></h1>                </div>
+                </div>
+            <div class="layer2">
+                <div class="row">
+                    <div class="text-box-container">
+                        <div class="text-box">
+                            <ul id="cskmi">
+                                <li>
+                                    The top two teams in the IPL (Chennai Super Kings and Mumbai Indians) have given us some iconic matches over the years.
+                                </li>
+                                <li>
+                                    Like this one, where Mumbai Indians won by 1 run in the final over of the match.
+                                </li>
+                                <li>
+                                    But how have these teams performed on the points table compared to others?
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+    <div class = "section">
+        <h1>
+            <strong> How have MI and CSK performed on the points table?</strong>
+        </h1>
+    </div>
+
+    <div class = "section" id = "section6">
+        <div class="row">
+            <div class="text-box-container">
+                <div class="text-box">
+                    <h3>Do teams who have a high number of total wins also tend to have a higher team ranking over time? </h3>
+                    <div>
+                        <p>
+                            Looking at the below sankey graph, we can see that the two top teams -- Chennai Super Kings and Mumbai Indians -- consistently performed better than the other teams throughout the years.
+                            The performance of both teams also seem to have decreased recently despite their past successes.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div id="slopegraph"></div>
+        </div>
+        </div>
+
+    <div class = "section" id = "section7">
+        <video class="myVideo" loop muted data-autoplay playsinline>
+            <source src="img/batsmen.mp4" type="video/mp4">
+        </video>
+        <div class="layer">
+            <div class = "row">
+                <h1 style="color: white;"> To Bat or to Bowl? </h1>
+            </div>
+        </div>
+        <div class="layer1">
+            <div class = "row">
+                <div class="text-box-container">
+                    <div class="text-box2">
+                        <ul id = "batbowl">
+                            <li>
+                                While cricket is supposed to be an equal battle between bat and ball, the sport has faced criticism recently for being too batsman-friendly.
+                            </li>
+                            <li>
+                                One news article even described the league as "a batsman's paradise and bowler's graveyard".
+                            </li>
+                            <li>
+                                But have there been any batsmen who have particularly stood out over the years?
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class = "section" id="section8">
+        <div class="row">
+            <div class="batsman-text-box">
+                <div class="text-box">
+                    <h3>
+                        Exploration of Batsmen Statistics
+                    </h3>
+                    <p>
+                        After looking at team success, we then investigate individual player successes. In the below two graphs, you can explore player performances based on 4 categories:
+                    </p>
+                    <ul>
+                        <li class="bar-graph-list">Total number of Batsman Runs</li>
+                        <li class="bar-graph-list">Total number of Player Outs</li>
+                        <li class="bar-graph-list">Player Average (total number of runs they have scored divided by the number of times they have been out)</li>
+                        <li class="bar-graph-list">Strike Rate (Number of Batsman Runs/Total Number of Balls)</li>
+                    </ul>
+                    <p>
+                        <strong style="color: #6F989D;">
+                            By clicking on the bars of the individual batsmen, you can explore their performance over the years.
+                        </strong>
+                    </p>
+                </div>
+            </div>
+
+            <div id="batsman-selection-box" class="col-4">
+                <div class="dropdown" id="divCategorySelector">
+                    <label for="categorySelector">Choose a category:</label>
+                    <select id="categorySelector" class="custom-select align-self-center" style="width: 50%" onchange="categoryChange()">
+                      <option value="sumBatsmanRuns" selected>Batsman Runs</option>
+                      <option value="numPlayerOuts">Player Outs</option>
+                      <option value="average">Average</option>
+                      <option value="strikeRate">Strike Rate</option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="row">
+                    <div class="col slider-label-container">
+                        <label for="slider" class="slider-label">Top <span id="slider-value">10</span> batsman:</label>
+                    </div>
+                    <div class="col slider-container">
+                        <div id="slider"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="bar-graph-div" class="row">
+            <div class="col">
+              <div id="barDiv"></div>
+            </div>
+            <div class="col">
+              <div id="lineDiv"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class = "section" id="section9">
+        <video class="myVideo" loop muted data-autoplay playsinline>
+            <source src="img/umpires.mp4" type="video/mp4">
+        </video>
+        <div class="layer">
+            <div class = "row">
+                <h1 style="color: white;" class="umpire-header">Umpires in Cricket</h1>                </div>
+        </div>
+        <div class="layer9">
+            <div class = "row">
+                <div class="text-box-container">
+                    <div class="text-box">
+                        <ul id="umpire3">
+                            <li>
+                                In cricket, each match is presided over by two on-field umpires.
+                            </li>
+                            <li>
+                                The umpires are responsible for making decisions on all aspects of play, including when a run is scored, when a batsman is out, and when a ball is dead.
+                            </li>
+                            <li>
+                                The umpires call is final (even if players disagree with the decision).
+                            </li>
+                            <li>
+                                Given the importance of the umpires, we wanted to explore the umpires who have officiated the most matches.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <div class = "section">
+        <h1>
+            <strong> Which Umpires Officiate More Matches Individually/Together?</strong>
+        </h1>
+    </div>
+
+    <div class ="section" id="section10">
+        <div class="row">
+            <div class="text-box-container">
+                <div class="text-box">
+                    <h4>How to navigate:</h4>
+                    <ul>
+                        <li>
+                            Drag the two nodes (circles) of interest to a separate space so that the specific link (line) between
+                            the two can be seen clearly.
+                        </li>
+                        <li>
+                            Hover your mouse over each node to see the number of individual matches
+                            officiated, and hover over the link to see the number of matches officiated jointly.
+                        </li>
+                        <li>
+                            Click the 'Reset Visualization' button to clear the graph or restore its original state.
+                        </li>
+                    </ul>
+                    <p>
+                        The network uncovers patterns and frequencies in umpire pairings, shedding light on how certain
+                        pairs may work together more often due to their proven synergy and experience. For instance,
+                        C. Shamshuddin and S. Ravi are well-known cricket umpires from India, where they were both
+                        <a href="https://www.sportskeeda.com/cricket/umpire-s-ravi-retained-in-icc-elite-panel-shamshuddin-elevated">recognized by the International Cricket Council for their umpiring skills.</a>
+                    </p>
+                </div>
+            </div>
+            <div class="networkClass text-center">
+                <h2 id="networkChart-title">Umpire Statistics</h2>
+                <button id="reset-button">Reset visualization</button>
+            </div>
+            <div id="network-graph"></div>
+        </div>
+    </div>
+    <div class ="section" id="section11">
+        <video class="myVideo" loop muted data-autoplay playsinline>
+            <source src="img/rain.mp4" type="video/mp4">
+        </video>
+
+        <div class="layer">
+            <div class = "row">
+                <h1 style="color: black;"> Heads is the Call </h1>
+            </div>
+        </div>
+        <div class="layer1">
+            <div class = "row">
+                <div class="text-box-container">
+                    <div class="text-box2">
+                        <ul id = "humidity">
+                            <li>
+                                Every cricket game starts with a toss of a coin. The winner of the toss gets to decide whether they want to bat or bowl first.
+                            </li>
+                            <li>
+                                While the decision to bat or bowl first may seem trivial, it can have a huge impact on the outcome of the match, giving an advantage to the team that wins the toss.
+                            </li>
+                            <li>
+                                A lot of factors go into the decision to bat or bowl first, including the weather conditions.
+                            </li>
+                            <li>
+                                So does humidity affect the decision to bat or bowl first? And could teams make the most of their decision?
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class = "section">
+        <h1>
+            <strong> Does humidity affect coin toss decision and win rate?</strong>
+        </h1>
+    </div>
+
+    <div class="section" id="section12">
+        <div class="row">
+            <div class="text-box-container">
+                <div class="text-box">
+                    <h3>Exploration of Humidity levels for Stadiums in India</h3>
+                    <p>
+                        Depending on the time and the place, teams would prefer to go first or second due to changing weather conditions. For example, chasing becomes easier in cities located in high humidity regions due to dew on the grass playing a factor
+                        In the below graph, you can explore the humidity various stadium locations depending on the year.
+                        Each circle on the map indicates the city where the stadium is located. The color of the dot indicates the average humidity of all the years. The lighter the blue color the less humid and the darker the more humid.
+                        For easy comparison, the rest of the map is colored to be 50% humidity to easily visualize the cities with higher or lower humidity.
+                    </p>
+                </div>
+            </div>
+            <div id="mapDiv-container" class="col-6">
+                <div id="mapDiv"></div>
+            </div>
+            <div class="col-5">
+                <div id="coin-toss-bar-container" class="row">
+                    <div id="coin-toss-decision-bar"></div>
+                </div>
+                <div id="coin-toss-bar-winner-container" class="row">
+                    <div id="coin-toss-winner-bar"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class ="section" id="section13">
+        <video class="myVideo" loop muted data-autoplay playsinline>
+            <source src="img/tare.mp4" type="video/mp4">
+        </video>
+
+        <div class="layer">
+            <div class = "row">
+                <h1  style="color: white; font-size: 60px">Thank you For Joining us in this Cricket Journey</h1>
+            </div>
+        </div>
+        <div class="layer1">
+            <div class = "row">
+                <div>
+                    <h3 style="color: white;">
+                        To know more about cricket and IPL, check out this <a style="color:white;" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">link </a>
+                    </h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="layer2">
+            <div class = "row">
+                <div>
+                    <h3 style="color: white;">
+                        Made with ❤️, by The Three Cricketeers (Kushagra, Helen, and Jiho)
+                    </h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    <!-- Load JS libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+          crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.4.0/nouislider.min.js"
+          integrity="sha512-mZXUH8DAODwCHioWP3gltQwa953LbABMlzTYwYkKqv8eNxOk37B1HgNNuCMfFxgrpW5C34WJbxPDcM58+s1dJA=="
+          crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- d3 -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/4.0.20/fullpage.min.js" integrity="sha512-LGiXf+jHGTHcIybSsOWO3I/in+OObCkcEsWIZ7IyhzfD6RzD5qDUw2CK+JveuI7zTSEcDG//bIOvOpAJW2BWsg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        new fullpage('#fullPage', {
+            autoScrolling: true,
+            navigation: true,
+            navigationPosition: 'right',
+            afterLoad: function (origin, destination, direction) {
+                if (destination.index === 0) {
+                    // Get the video element
+                    // Wait for 3 seconds and then display the text overlay
+                    setTimeout(function () {
+                        document.querySelector('.center-box1').classList.add('show');
+                    }, 4600);
+                }
+
+                // Add similar logic for other sections
+                // For example, for section 1 with the ordered list
+
+            }
+        });
+    });
+</script>
+
+
+    <!-- Visualization objects -->
+    <script src="js/barVis.js"></script>
+    <script src="js/lineGraph.js"></script>
+    <script src="js/treemap.js"></script>
+    <script src="js/barmap.js"></script>
+    <script src="js/slopegraph.js"></script>
+    <script src="js/mapVis.js"></script>
+    <script src="js/network.js"></script>
+    <script src="js/CoinTossBarGraph.js"></script>
+
+    <!-- Load data, create visualizations -->
+    <script src="js/main.js"></script>
+</body>
+</html>

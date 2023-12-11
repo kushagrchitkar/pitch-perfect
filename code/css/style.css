@@ -1,0 +1,487 @@
+text {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+body, p {
+    font-family: "Domine", sans-serif;
+    font-weight: bolder;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 0px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.fp-right ul li a span {
+    background-image: url('../img/cricketball.png') !important;
+    background-size: contain !important;
+}
+
+.dropdown {
+    margin-left: 30px;
+}
+
+.batsman-text-box {
+    padding: 15px 50px 40px;
+}
+
+.text-box-container {
+    padding: 15px 50px 0px;
+}
+
+#batsman-selection-box {
+    padding-left: 35px;
+}
+
+.bar-graph-list {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#barDiv {
+    padding-top: 10px;
+    height: 70vh;
+    width: 100%;
+}
+
+#lineDiv {
+    padding-top: 10px;
+    height: 70vh;
+    width: 100%;
+}
+
+.line {
+    fill: none;
+}
+
+#slider {
+    width: 70%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the slider horizontally if needed */
+}
+
+.x-axis-label,
+.y-axis-label,
+.title {
+    font: 14px sans-serif;
+}
+
+#divCategorySelector {
+    max-width: 500px; /* Adjust the maximum width as needed */
+    width: auto;
+}
+
+#categorySelector:hover {
+    background-color:#ddd;
+}
+
+.tooltip {
+    z-index: 9999;
+}
+
+/* CSS for network graph */
+
+#network-graph {
+    width: 100%;
+    height: 1000px;
+}
+
+.networkClass {
+    margin-bottom: 0;
+}
+
+/* CSS for map */
+
+#mapDiv {
+    height: 80vh;
+    width: 100%;
+}
+
+#mapDiv-container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#coin-toss-decision-bar {
+    height: 40vh;
+    width: 100%;
+}
+
+#coin-toss-winner-bar {
+    height: 40vh;
+    width: 100%;
+}
+
+/* Style for the Slider */
+.slider-label-container {
+    text-align: right;
+}
+
+.slider-label {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#slider {
+    width: 100%;
+    margin-right: auto;
+}
+
+.slider-container {
+    padding-top: 5px;
+}
+
+.myVideo{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top:0;
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+    background-color: black; /* in case the video doesn't fit the whole page*/
+    background-position: center center;
+    background-size: contain;
+    object-fit: cover; /*cover video background */
+    z-index:3;
+}
+
+
+#section0 .layer{
+    position: absolute;
+    z-index: 4;
+
+     
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+/*solves problem with overflowing video in Mac with Chrome */
+#section0{
+    overflow: hidden;
+}
+
+#section1 .layer{
+    position: absolute;
+    z-index: 4;
+    top: 0;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#section1 .layer{
+    position: absolute;
+    z-index: 4;
+    top: 0;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#section1 .layer1{
+    position: absolute;
+    z-index: 4;
+    top: 15%;
+    margin-right: 4%;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#section2 .layer{
+    position: absolute;
+    z-index: 4;
+    top: 0;
+    margin-right: 2%;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#treemap{
+    margin-left: 30px;
+}
+
+#section5 .layer{
+    position: absolute;
+    z-index: 4;
+    top: 0;
+    left: 30%;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#section5 .layer2{
+    position: absolute;
+    z-index: 4;
+    top: 20%;
+    left: 60%;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#section7 .layer{
+    position: absolute;
+    z-index: 4;
+    top: 60%;
+    left: 5%;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#section7 .layer1{
+    position: absolute;
+    z-index: 4;
+    top: 20%;
+    left: 40%;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+
+#section11 .layer{
+    position: absolute;
+    z-index: 4;
+    top: 5%;
+    left: 40%;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#section11 .layer1{
+    position: absolute;
+    z-index: 4;
+    top: 15%;
+    left: 5%;
+    margin-right: 40%;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#section13 .layer{
+    position: absolute;
+    z-index: 4;
+    top: 5%;
+    left: 40%;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#section13 .layer1{
+    position: absolute;
+    z-index: 4;
+    top: 50%;
+    left: 40%;
+
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+#section13 .layer2{
+    position: absolute;
+    z-index: 4;
+    top: 70%;
+    left: 40%;
+    
+    -webkit-transform: translate3d(0,0,0);
+    -ms-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+.center-box1 {
+    opacity: 0;
+    position: absolute;
+    width: 50%;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 25%;
+    text-align: center;
+    align-self: center;
+    transition: opacity 1s ease-in-out;
+}
+
+.center-box1.show {
+    opacity: 1;
+}
+
+.center-box2 {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 15px;
+}
+
+.center-box3 {
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 20%;
+    text-align: center;
+    align-self: center;
+}
+
+.center-box3 h1{
+    color: #ffffff;
+    font-size: 300%;
+}
+
+.layer1 {
+    z-index: 4;
+    transition: opacity 1s ease-in-out;
+}
+
+#howtocricket li {
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 130%;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+#cskmi li{
+    margin-top: 10px;
+    color: #ffffff;
+    font-size: 150%;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+#batbowl li{
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 150%;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+#ipl li{
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 100%;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+#humidity li{
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 150%;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+#ipl li{
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 135%;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.cskmi{
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 300%;
+    border-radius: 10px;
+}
+
+.csk {
+    color: yellow;
+}
+
+.mi {
+    color: blue;
+}
+
+.text-box {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgba(242, 242, 242, 0.5);
+}
+
+.text-box2 {
+    padding: 15px;
+    margin: 10px;
+    background-color: rgba(150, 150, 150, 0.5);
+}
+
+#section9 .layer {
+    position: absolute;
+    z-index: 4;
+    top: 3%;
+    left: 35%;
+}
+
+.text-box-container-s9 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.umpire3{
+    margin-top: 0;
+    color: #ffffff;
+    font-size: 60px;
+    border-radius: 10px;
+}
+
+#section9 .layer9 {
+    position: absolute;
+    z-index: 4;
+    top: 20%;
+    left: 50%;
+}
+
+#umpire3 li {
+    margin-top: 0;
+    color: #ffffff;
+    font-size: 130%;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.umpireDuo {
+    max-width: 100%;
+    height: auto;
+    padding-top: 50px;
+}
